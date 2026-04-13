@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C412%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C413%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C409%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .ltd one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,412 rows · **Live catalog:** 7,409 domains
+**Public extract:** 7,413 rows · **Live catalog:** 7,409 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/ltd`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .LTD one-word domain c
 
 ### Files
 
-- `ltd.csv` — public CSV extract (7,412 rows)
-- `ltd.json` — public JSON extract (7,412 rows)
+- `ltd.csv` — public CSV extract (7,413 rows)
+- `ltd.json` — public JSON extract (7,413 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -78,10 +78,10 @@ print(df.head())
 | wiz.ltd       | premium   | $82.50    | $82.50        | 80             | 32     | 3      | name.com                                                |
 | democracy.ltd | available | $9.99     | —             | 74             | 29     | 9      | name.com                                                |
 | own.ltd       | resell    | —         | —             | 122            | 70     | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| sad.ltd       | premium   | $82.50    | $82.50        | 72             | 27     | 3      | name.com                                                |
+| sad.ltd       | premium   | $82.50    | $82.50        | 72             | 26     | 3      | name.com                                                |
 | vice.ltd      | available | $9.99     | —             | 56             | 29     | 4      | name.com                                                |
 | easy.ltd      | resell    | —         | —             | 128            | 68     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| dip.ltd       | premium   | $41.25    | $41.25        | 70             | 23     | 3      | name.com                                                |
+| low.ltd       | premium   | $123.75   | $123.75       | 78             | 22     | 3      | name.com                                                |
 | cream.ltd     | available | $9.99     | $39.99        | 110            | 28     | 5      | name.com                                                |
 | prompt.ltd    | resell    | —         | —             | 114            | 68     | 6      | DNSPod, Inc.                                            |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,412-row public sample | 7,409 live domains                               |
+| 7,413-row public sample | 7,409 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
