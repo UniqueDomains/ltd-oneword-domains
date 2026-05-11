@@ -668,6 +668,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4272bfe2-7685-4222-8141-17c419ee492b,plated.ltd,available,9.99,,66,11,6,name.com,,
 4274a1e0-eb18-433f-b6b5-dd676160f2bf,nojoke.ltd,available,9.99,,48,4,7,name.com,,
 42a366ed-611d-4170-afd6-fca63d5dd1af,movingforward.ltd,available,9.99,,56,8,14,name.com,,
+42ac62f5-5059-40a9-b3aa-1296a28b9bb9,drivethru.ltd,available,9.99,,76,10,10,name.com,,
 42ae1cb0-57f6-4235-82b9-b0593fdc4043,advantages.ltd,available,9.99,,64,5,10,name.com,,
 42c20332-1c7b-4fda-a77e-d03d80b8c79a,havekittens.ltd,available,9.99,,66,1,12,name.com,,
 42d0a4b4-aa54-41c9-a6e3-3e64847082cd,males.ltd,available,9.99,,58,9,5,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5f552935-3a3a-49f0-ba84-8730652193ed,pointofcare.ltd,available,9.99,,70,4,13,name.com,,
 5f7aaa88-a06c-42b9-986b-7c069bde169d,genericnames.ltd,available,9.99,,42,2,13,name.com,,
 5fca1173-57fe-4ab8-888e-8b2b4c0d3762,commontime.ltd,available,9.99,,68,4,11,name.com,,
-5fd0f4eb-4946-4069-b34f-5eee69048e35,subsidiaries.ltd,available,9.99,,51,2,12,name.com,,
