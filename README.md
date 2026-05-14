@@ -83,7 +83,7 @@ print(df.head())
 | loans.ltd       | resell    | —         | —             | 58             | 24     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | Vehicles.ltd    | premium   | $46.20    | $92.40        | 49             | 13     | 8      | namecheap                                               |
 | guns.ltd        | available | $9.99     | —             | 68             | 22     | 4      | name.com                                                |
-| plants.ltd      | resell    | —         | —             | 75             | 23     | 6      | Dynadot Inc                                             |
+| plants.ltd      | resell    | —         | —             | 75             | 22     | 6      | Dynadot Inc                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
