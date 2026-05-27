@@ -71,19 +71,19 @@ print(df.head())
 | Cats.ltd        | resell    | —         | —             | 59             | 33     | 4      | DNSPod, Inc.                                            |
 | events.ltd      | premium   | $46.20    | $92.40        | 68             | 37     | 6      | namecheap                                               |
 | destination.ltd | available | $9.99     | —             | 90             | 24     | 11     | name.com                                                |
-| partners.ltd    | resell    | —         | —             | 61             | 32     | 8      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| insure.ltd      | resell    | —         | —             | 78             | 28     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | tickets.ltd     | premium   | $46.20    | $92.40        | 64             | 34     | 7      | namecheap                                               |
 | thermal.ltd     | available | $9.99     | —             | 56             | 24     | 7      | name.com                                                |
-| insure.ltd      | resell    | —         | —             | 78             | 28     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| gamers.ltd      | resell    | —         | —             | 62             | 24     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | apartments.ltd  | premium   | $23.10    | $46.20        | 60             | 21     | 10     | namecheap                                               |
 | veterans.ltd    | available | $9.99     | —             | 56             | 23     | 8      | name.com                                                |
-| gamers.ltd      | resell    | —         | —             | 62             | 24     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| advisors.ltd    | premium   | $46.20    | $92.40        | 52             | 16     | 8      | namecheap                                               |
-| webshop.ltd     | available | $9.99     | —             | 76             | 22     | 8      | name.com                                                |
 | loans.ltd       | resell    | —         | —             | 58             | 24     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| Vehicles.ltd    | premium   | $46.20    | $92.40        | 49             | 13     | 8      | namecheap                                               |
+| advisors.ltd    | premium   | $46.20    | $92.40        | 52             | 16     | 8      | namecheap                                               |
 | guns.ltd        | available | $9.99     | —             | 68             | 22     | 4      | name.com                                                |
 | plants.ltd      | resell    | —         | —             | 75             | 22     | 6      | Dynadot Inc                                             |
+| Vehicles.ltd    | premium   | $46.20    | $92.40        | 49             | 13     | 8      | namecheap                                               |
+| webshop.ltd     | available | $9.99     | —             | 76             | 21     | 8      | name.com                                                |
+| vacations.ltd   | resell    | —         | —             | 56             | 19     | 9      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
