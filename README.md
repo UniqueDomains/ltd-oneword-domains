@@ -1,10 +1,10 @@
-# Available .LTD One-Word Domains (10,116)
+# Available .LTD One-Word Domains (10,114)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C116%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C114%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .ltd one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,116 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,114 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,116 domains · **Median ask:** $12.63 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,114 domains · **Median ask:** $11.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/ltd`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/ltd`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LTD one-word domain c
 
 ### Files
 
-- `ltd.csv` — public CSV extract (1,000 rows)
-- `ltd.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `ltd.csv`, public CSV extract (1,000 rows)
+- `ltd.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| enter.ltd       | available | $9.99     | —             | 80             | 31     | 5      | name.com                                                |
-| lets.ltd        | resell    | —         | —             | 77             | 39     | 4      | Sav.com, LLC - 34                                       |
-| farmers.ltd     | premium   | $46.20    | $92.40        | 54             | 59     | 7      | namecheap                                               |
-| discount.ltd    | available | $9.99     | —             | 74             | 28     | 8      | name.com                                                |
-| Cats.ltd        | resell    | —         | —             | 59             | 33     | 4      | DNSPod, Inc.                                            |
-| events.ltd      | premium   | $46.20    | $92.40        | 68             | 37     | 6      | namecheap                                               |
-| destination.ltd | available | $9.99     | —             | 90             | 24     | 11     | name.com                                                |
-| insure.ltd      | resell    | —         | —             | 78             | 28     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| tickets.ltd     | premium   | $46.20    | $92.40        | 64             | 34     | 7      | namecheap                                               |
-| thermal.ltd     | available | $9.99     | —             | 56             | 24     | 7      | name.com                                                |
-| gamers.ltd      | resell    | —         | —             | 62             | 24     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| apartments.ltd  | premium   | $23.10    | $46.20        | 60             | 21     | 10     | namecheap                                               |
-| veterans.ltd    | available | $9.99     | —             | 56             | 23     | 8      | name.com                                                |
-| loans.ltd       | resell    | —         | —             | 58             | 24     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| advisors.ltd    | premium   | $46.20    | $92.40        | 52             | 16     | 8      | namecheap                                               |
-| guns.ltd        | available | $9.99     | —             | 68             | 22     | 4      | name.com                                                |
-| plants.ltd      | resell    | —         | —             | 75             | 22     | 6      | Dynadot Inc                                             |
-| Vehicles.ltd    | premium   | $46.20    | $92.40        | 49             | 13     | 8      | namecheap                                               |
-| webshop.ltd     | available | $9.99     | —             | 76             | 21     | 8      | name.com                                                |
-| vacations.ltd   | resell    | —         | —             | 56             | 19     | 9      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| count.ltd  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                        |
+| pardon.ltd | available | $9.99     | —             | high           | low    | 6      | name.com                                                |
+| attack.ltd | available | $9.99     | —             | high           | low    | 6      | name.com                                                |
+| smooth.ltd | premium   | $9.99     | —             | high           | low    | 6      | name.com                                                |
+| less.ltd   | available | —         | —             | high           | low    | 4      | —                                                       |
+| calm.ltd   | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| rear.ltd   | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
+| party.ltd  | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| aged.ltd   | available | $9.99     | $39.99        | high           | low    | 4      | name.com                                                |
+| air.ltd    | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| hum.ltd    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                               |
+| comp.ltd   | available | $9.99     | —             | medium         | low    | 4      | name.com                                                |
+| dot.ltd    | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| ive.ltd    | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                               |
+| cozy.ltd   | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
+| ear.ltd    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 14                                       |
+| lip.ltd    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                               |
+| exit.ltd   | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
+| log.ltd    | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| moi.ltd    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,116 live domains                        |
+| 1,000-row public sample | 10,114 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up entirely of one-word .ltd domains. The set spans abstract terms, descriptive words, and simple dictionary words such as define.ltd, volume.ltd, demo.ltd, and grape.ltd. For founders, the main question is whether the word is memorable, easy to explain, and credible with a .ltd ending. For investors, the focus is tighter: term quality, breadth of buyer use, and whether the ask leaves room for a reasonable spread. With a median ask of 12.63, low entry price may be appealing, but quality still varies sharply by word clarity, commercial relevance, and trademark risk.
+This is a list of one-word .LTD domain names, including okay.ltd, great.ltd, easy.ltd, and beauty.ltd. With 10,114 domains in this set and a median asking price around $11.67, .LTD offers a low-cost way to secure a short, memorable word. When comparing these domains, check the asking price against renewal cost, spelling simplicity, and how well the word stands alone as a brand or business identifier.
 
-- All domains in this selection use the .ltd extension
-- Single-word names range from abstract to descriptive terms
-- Median ask is 12.63, so term quality matters most
-- Check clarity, buyer breadth, and trademark exposure
+- 10,114 one-word .LTD domain names in this set
+- Median asking price around $11.67
+- Short, dictionary-style words like okay, feel, easy
+- Updated daily for fresh pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LTD One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LTD One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
