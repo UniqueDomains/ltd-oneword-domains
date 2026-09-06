@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ltd one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,514 domains · **Median ask:** $8.07 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/ltd`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| count.ltd  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                        |
-| pardon.ltd | available | $9.99     | —             | high           | low    | 6      | name.com                                                |
-| smooth.ltd | premium   | $9.99     | —             | high           | low    | 6      | name.com                                                |
-| less.ltd   | available | —         | —             | high           | low    | 4      | —                                                       |
-| calm.ltd   | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| rear.ltd   | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
-| party.ltd  | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| aery.ltd   | available | $4.98     | $42.98        | low            | low    | 4      | namecheap                                               |
-| air.ltd    | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| azo.ltd    | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                                               |
-| aged.ltd   | available | $9.99     | $39.99        | high           | low    | 4      | name.com                                                |
-| dot.ltd    | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| cxx.ltd    | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                                               |
-| comp.ltd   | available | $9.99     | —             | medium         | low    | 4      | name.com                                                |
-| ear.ltd    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 14                                       |
-| hum.ltd    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                               |
-| cozy.ltd   | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
-| log.ltd    | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| ive.ltd    | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                               |
-| dewy.ltd   | available | $4.98     | $42.98        | low            | low    | 4      | namecheap                                               |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| aery.ltd | available | $4.98     | $42.98        | low            | low    | 4      | namecheap                                               |
+| air.ltd  | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| azo.ltd  | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                                               |
+| aged.ltd | available | $9.99     | $39.99        | high           | low    | 4      | name.com                                                |
+| dot.ltd  | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| cxx.ltd  | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                                               |
+| comp.ltd | available | $9.99     | —             | medium         | low    | 4      | name.com                                                |
+| ear.ltd  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 14                                       |
+| hum.ltd  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                               |
+| cozy.ltd | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
+| log.ltd  | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| ive.ltd  | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                               |
+| dewy.ltd | available | $4.98     | $42.98        | low            | low    | 4      | namecheap                                               |
+| set.ltd  | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| lip.ltd  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                               |
+| exit.ltd | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
+| wow.ltd  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
+| moi.ltd  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                               |
+| flak.ltd | available | $4.98     | $42.98        | low            | low    | 4      | namecheap                                               |
+| blow.ltd | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LTD One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LTD One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
