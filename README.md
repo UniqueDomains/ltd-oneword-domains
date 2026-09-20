@@ -1,10 +1,10 @@
-# Available .LTD One-Word Domains (23,617)
+# Available .LTD One-Word Domains (23,796)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C617%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C796%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ltd one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,617 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,796 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,617 domains · **Median ask:** $7.51 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 23,796 domains · **Median ask:** $7.51 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/ltd`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | inform.ltd | resell    | $9.99     | —             | low            | low    | 6      | name.com                                                |
 | azo.ltd    | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                                               |
 | aged.ltd   | available | $9.99     | $39.99        | high           | low    | 4      | name.com                                                |
-| air.ltd    | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| air.ltd    | resell    | —         | —             | medium         | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | cxx.ltd    | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                                               |
 | comp.ltd   | available | $9.99     | —             | medium         | low    | 4      | name.com                                                |
-| dot.ltd    | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| ear.ltd    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 14                                       |
 | hum.ltd    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                               |
 | cozy.ltd   | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
-| ear.ltd    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 14                                       |
+| log.ltd    | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | ive.ltd    | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                               |
 | dewy.ltd   | available | $4.98     | $42.98        | low            | low    | 4      | namecheap                                               |
-| log.ltd    | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| set.ltd    | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | lip.ltd    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                               |
 | exit.ltd   | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
-| set.ltd    | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| wow.ltd    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
 | moi.ltd    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                               |
 | flak.ltd   | available | $4.98     | $42.98        | low            | low    | 4      | namecheap                                               |
-| wow.ltd    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
+| blow.ltd   | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,617 live domains                        |
+| 1,000-row public sample | 23,796 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LTD One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LTD One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
